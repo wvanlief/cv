@@ -1,0 +1,19 @@
+
+            body {
+                background-color: rgba(127, 33, 34, 0.9);
+                } /* #7F2122 */
+
+            hr {
+                background-color: rgba(255,215,0,0.75);
+                border-style: none;
+                height: 5px;
+                width: 30%;
+                }
+
+            h1 {
+                color: rgba(255,215,0,0.75)
+                }
+
+            h3 {
+                color: rgba(255,215,0,0.5)
+                }
